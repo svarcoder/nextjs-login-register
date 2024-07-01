@@ -59,6 +59,7 @@ NEXT_PUBLIC_BASE_URL=http://localhost:5005
 
 ### Project Structure
 
+```sh
 ├── components
 │ ├── NavBar.tsx # Navigation bar component
 │ ├── ProtectedRoute.tsx # Component to protect routes
@@ -77,6 +78,7 @@ NEXT_PUBLIC_BASE_URL=http://localhost:5005
 ├── .env # Environment variables
 ├── README.md # Project documentation
 └── tsconfig.json # TypeScript configuration
+```
 
 ### Scripts
 
